@@ -3,4 +3,6 @@ Alur belajar
 -Seputar kode editor
 -Git & Githhub : lanjutan
 -Html, css, javascript
--dll
+-Framework javascript : nodeJS, Vue, React.
+-Framework css : bootstap, tailwind.
+-Belajar PHP dasar

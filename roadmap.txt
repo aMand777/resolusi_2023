@@ -7,4 +7,3 @@ Alur belajar
 -Framework css : bootstap, tailwind.
 -Belajar PHP dasar
 -Framework PHP : Laravel, CodeIgniter.
--Merge dong
